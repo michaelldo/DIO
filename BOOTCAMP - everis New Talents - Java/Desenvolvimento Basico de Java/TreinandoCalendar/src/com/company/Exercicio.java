@@ -29,7 +29,5 @@ public class Exercicio {
             // Caso não caia no final de samana, não será acrescentado nenhum dia e manterá a data padrão.
             System.out.printf( "O Cliente terá até a data %tc para pagar sem juros", vencimento.getTime());
         }
-
-
     }
 }
